@@ -7,7 +7,7 @@ const JobOneComponent = () => {
     <Container>
       <Row>
         <Col className="pt-5">
-          <h1 style={{ display: "flex", justifyContent: "center" }}>
+          <h1 style={{ display: "flex", justifyContent: "center",fontSize: "4vw" }}>
             Freelancing
           </h1>
    
